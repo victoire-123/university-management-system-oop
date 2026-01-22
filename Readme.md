@@ -1,3 +1,16 @@
+group 8
+
+1.Mpano Victoire, 30663/2025.      2.Shema Deo Anthere, 29786/2025.
+3.Eliwantchoni, 23734/2024
+4.Nasir Roup, 29373/2025
+5.Elsir Omer ,26082/2024
+6.IRUMVA Paul, 29729/2025
+7.Shehababdo, 30239/2025
+
+
+
+
+
 University Course Management System
 📚 Project Overview
 A comprehensive console-based Java application for managing university courses, users, enrollments, and grades. This system demonstrates all four pillars of Object-Oriented Programming (OOP) through practical implementation.
